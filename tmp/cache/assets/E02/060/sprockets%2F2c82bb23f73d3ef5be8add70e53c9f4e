@@ -1,0 +1,20 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1414226586.644469:@value{I"
+class:ETI"StaticAsset;
+FI"id;
+TI"%f0ae21595d315453036bd189209b3aa4;
+FI"logical_path;
+TI"visa.png;
+TI"pathname;
+TI"%$root/app/assets/images/visa.png;
+FI"content_type;
+TI"image/png;
+TI"
+mtime;
+TI"2011-10-11T04:22:04+05:30;
+TI"length;
+TI"	1469;
+FI"digest;
+TI"%e1805bb74ef28dda5d2ff19a2790666c;
+FI"_version;
+TI"%4cb2ee12166a4b69b8fba75205972b7a;
+F

@@ -1,0 +1,20 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1414226586.5819495:@value{I"
+class:ETI"StaticAsset;
+FI"id;
+TI"%a54224e8409e617068eccc790b4d0c0c;
+FI"logical_path;
+TI"mastercard.png;
+TI"pathname;
+TI"+$root/app/assets/images/mastercard.png;
+FI"content_type;
+TI"image/png;
+TI"
+mtime;
+TI"2011-10-11T04:22:04+05:30;
+TI"length;
+TI"	2272;
+FI"digest;
+TI"%a7dbe99a6aa2286b2ae497506cb7d058;
+FI"_version;
+TI"%4cb2ee12166a4b69b8fba75205972b7a;
+F

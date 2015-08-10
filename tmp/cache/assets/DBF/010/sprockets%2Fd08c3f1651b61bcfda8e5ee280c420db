@@ -1,0 +1,20 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1414226586.6855662:@value{I"
+class:ETI"StaticAsset;
+FI"id;
+TI"%1e78c39c2ccd32817b1e77b191a86907;
+FI"logical_path;
+TI"jcb.png;
+TI"pathname;
+TI"$$root/app/assets/images/jcb.png;
+FI"content_type;
+TI"image/png;
+TI"
+mtime;
+TI"2011-10-11T04:22:04+05:30;
+TI"length;
+TI"	1943;
+FI"digest;
+TI"%ca5f15d5505018f065f7e86e09091265;
+FI"_version;
+TI"%4cb2ee12166a4b69b8fba75205972b7a;
+F

@@ -1,0 +1,20 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1414226586.6089509:@value{I"
+class:ETI"StaticAsset;
+FI"id;
+TI"%9c92c9159d1b08fa965bd3e34de54d4f;
+FI"logical_path;
+TI"discover.png;
+TI"pathname;
+TI")$root/app/assets/images/discover.png;
+FI"content_type;
+TI"image/png;
+TI"
+mtime;
+TI"2011-10-11T04:22:04+05:30;
+TI"length;
+TI"	1631;
+FI"digest;
+TI"%3c1eec83bee7667ce55209501a424c5c;
+FI"_version;
+TI"%4cb2ee12166a4b69b8fba75205972b7a;
+F
